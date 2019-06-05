@@ -50,7 +50,7 @@
   "dependencies": {
     "electron-settings": "^3.0.7",
     "electron-shortcut-normalizer": "^1.0.0",
-    "glob": "^7.1.0",
+    "glob": "^7.1.4",
     "highlight.js": "^9.3.0"
   },
   "standard": {
